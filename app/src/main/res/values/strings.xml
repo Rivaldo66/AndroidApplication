@@ -1,0 +1,20 @@
+<resources>
+
+    <string name="app_name">Let\'s drink!</string>
+
+    <!--Panel główny aplikacji-->
+    <string name="text_amount_milliliters">Amount of millilitres in each shot: </string>
+    <string name="text_time_breaks">Amount of time between shots: </string>
+    <string name="text_main">0</string>
+
+    <!--Opcje początkowe aplikacji-->
+    <string name="text_start">Choose volume of one round (in millilitres):</string>
+    <string name="text_start_time">Choose amount of time between each shot (in minutes):</string>
+
+    <!--Toasty-->
+    <string name="text_toast">To the better times!</string>
+
+    <!--Panel losowania karnej rundy-->
+    <string name="text_random">Drink!</string>
+
+</resources>
